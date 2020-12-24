@@ -3,6 +3,6 @@
 <p>It's a screen-pet which shows it's different facial expreesions on user action.</p>
 <br>
 
-Imported Module
+<h2>Imported Module</h2>
 
-1 - from tkinter import Tk,HIDDEN,NORMAL,Canvas
+1 - from tkinter import Tk,HIDDEN,NORMAL,Canvas<br>
